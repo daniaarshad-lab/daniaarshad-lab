@@ -38,8 +38,8 @@
 
 ## 👩‍💻 About Me
 
-> **Software Engineering is broad by nature — and so am I.**
-> I build complete systems: backends, APIs, DevOps pipelines, databases, and AI integrations — because great engineers understand how everything connects, not just one isolated layer.
+> **Software Engineering is broad by nature, and so am I.**
+> I build complete systems: backends, APIs, DevOps pipelines, databases, and AI integrations because great engineers understand how everything connects, not just one isolated layer.
 
 🎯 **Core Focus** → Backend Engineering · DevOps · AI Integration · System Reliability  
 🔗 **Portfolio** → [daniaportfolio.pages.dev](https://daniaportfolio.pages.dev/)  
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
+### 🤖 AI 
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" height="50"/>
 
@@ -97,24 +97,11 @@
 
 <div align="center">
 
-<a href="https://github.com/daniaarshad-lab/seeing-the-unseen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=seeing-the-unseen&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/daniaarshad-lab/blogpostwebsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=blogpostwebsite&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/daniaarshad-lab/VPN-APP-OpenVpn-IKEV2-L2TP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-APP-OpenVpn-IKEV2-L2TP&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/daniaarshad-lab/CI-CD-Pipeline-of-MERN-Ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=CI-CD-Pipeline-of-MERN-Ecommerce&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/daniaarshad-lab/Full-Stack-E-Commerce-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=Full-Stack-E-Commerce-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/daniaarshad-lab/VPN-User-Monitoring-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-User-Monitoring-Dashboard&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-</a>
+| | |
+|:---:|:---:|
+| <a href="https://github.com/daniaarshad-lab/seeing-the-unseen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=seeing-the-unseen&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>🦯 An AI-powered assistive system for visually impaired and blind users</sub> | <a href="https://github.com/daniaarshad-lab/blogpostwebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=blogpostwebsite&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>📝 A full stack blog platform with rich content management</sub> |
+| <a href="https://github.com/daniaarshad-lab/VPN-APP-OpenVpn-IKEV2-L2TP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-APP-OpenVpn-IKEV2-L2TP&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>🔐 Multi-vendor VPN app supporting OpenVPN, IKEv2 & L2TP protocols</sub> | <a href="https://github.com/daniaarshad-lab/CI-CD-Pipeline-of-MERN-Ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=CI-CD-Pipeline-of-MERN-Ecommerce&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>⚙️ Full stack MERN e-commerce app deployed through a complete DevOps pipeline</sub> |
+| <a href="https://github.com/daniaarshad-lab/Full-Stack-E-Commerce-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=Full-Stack-E-Commerce-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>🛒 Full stack e-commerce web application with end-to-end shopping experience</sub> | <a href="https://github.com/daniaarshad-lab/VPN-User-Monitoring-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-User-Monitoring-Dashboard&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/></a><br/><sub>📊 Real-time dashboard for monitoring VPN users, sessions & network activity</sub> |
 
 </div>
 
@@ -132,11 +119,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 What I Bring to the Table
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=daniaarshad-lab&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10"/>
+<img src="https://img.shields.io/badge/🔧%20Systems%20Thinker-I%20build%20end--to--end%2C%20not%20just%20features-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⚙️%20Backend%20First-APIs%20%7C%20Databases%20%7C%20Architecture-6d28d9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Native-AWS%20%7C%20Docker%20%7C%20Kubernetes-0ea5e9?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Integration-LLMs%20%7C%20Computer%20Vision%20%7C%20MLOps-10b981?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🔁%20DevOps%20Mindset-CI%2FCD%20%7C%20IaC%20%7C%20Monitoring-f59e0b?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/📦%20Deployment%20Ready-From%20Code%20to%20Production-e11d48?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🧠%20Problem%20Solver-Complex%20Systems%2C%20Clean%20Solutions-8b5cf6?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
