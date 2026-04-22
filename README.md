@@ -41,8 +41,7 @@
 > **Software Engineering is broad by nature — and so am I.**
 > I build complete systems: backends, APIs, DevOps pipelines, databases, and AI integrations — because great engineers understand how everything connects, not just one isolated layer.
 
-🎯 **Core Focus** → Backend Engineering · DevOps · System Reliability  
-🌱 **Currently Exploring** → LLMs in production · MLOps · Cloud-native architectures  
+🎯 **Core Focus** → Backend Engineering · DevOps · AI Integration · System Reliability  
 🔗 **Portfolio** → [daniaportfolio.pages.dev](https://daniaportfolio.pages.dev/)  
 📬 **Reach me** → daniaarshad19@gmail.com  
 
@@ -98,23 +97,23 @@
 
 <div align="center">
 
-<!--
-  ⚠️ IMPORTANT: Replace the repo names below with your ACTUAL pinned repository names.
-  Go to your GitHub profile → click "Customize your pins" → copy the exact repo names.
-  Format: username/repo-name
--->
-
-<a href="https://github.com/daniaarshad-lab/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=YOUR-REPO-1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<a href="https://github.com/daniaarshad-lab/seeing-the-unseen">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=seeing-the-unseen&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
 </a>
-<a href="https://github.com/daniaarshad-lab/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=YOUR-REPO-2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<a href="https://github.com/daniaarshad-lab/blogpostwebsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=blogpostwebsite&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
 </a>
-<a href="https://github.com/daniaarshad-lab/YOUR-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=YOUR-REPO-3&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<a href="https://github.com/daniaarshad-lab/VPN-APP-OpenVpn-IKEV2-L2TP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-APP-OpenVpn-IKEV2-L2TP&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
 </a>
-<a href="https://github.com/daniaarshad-lab/YOUR-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=YOUR-REPO-4&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<a href="https://github.com/daniaarshad-lab/CI-CD-Pipeline-of-MERN-Ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=CI-CD-Pipeline-of-MERN-Ecommerce&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/daniaarshad-lab/Full-Stack-E-Commerce-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=Full-Stack-E-Commerce-Website&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/daniaarshad-lab/VPN-User-Monitoring-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniaarshad-lab&repo=VPN-User-Monitoring-Dashboard&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -137,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=daniaarshad-lab&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=daniaarshad-lab&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10"/>
 
 </div>
 
